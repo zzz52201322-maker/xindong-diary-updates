@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.6",
-  "apkUrl": "https://github.com/zzz52201322-maker/xindong-diary-updates/releases/download/v1.6/AnniversaryApp-1.6.apk",
-  "sha256": "0949ADB6935A300ECF7FB3E9FA4CE1EF5F99EDED8EDAE9CB9D5A9237749DE192",
-  "releaseNotes": "修复问题并优化运行流畅性",
+  "versionCode": 12,
+  "versionName": "1.8",
+  "apkUrl": "https://github.com/zzz52201322-maker/xindong-diary-updates/releases/download/v1.8/AnniversaryApp-1.8.apk",
+  "sha256": "6C36BFD4A88F89D6EFF7DB099EC1C336B05DE44E9605C4DA14C2A394CBA0CA96",
+  "releaseNotes": "优化在线更新检查的超时处理与网络失败重试。",
   "forceUpdate": false
 }
