@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "1.8",
-  "apkUrl": "https://atomgit.com/zzz52201322-maker/xindong-diary-updates/releases/download/v1.8/AnniversaryApp-1.8.apk",
-  "sha256": "6C36BFD4A88F89D6EFF7DB099EC1C336B05DE44E9605C4DA14C2A394CBA0CA96",
-  "releaseNotes": "优化在线更新检查的超时处理并提升下载速度。",
+  "versionCode": 14,
+  "versionName": "1.91-test",
+  "apkUrl": "https://atomgit.com/zzz52201322-maker/xindong-diary-updates/releases/download/v1.91/AnniversaryApp-1.91.apk",
+  "sha256": "0C63F1C30D8A879D0723E02CFF7AA0103EFA48D1FEC02F02713D9FFDECD7340A",
+  "releaseNotes": "优化更新弹窗显示效果。",
   "forceUpdate": false
 }
