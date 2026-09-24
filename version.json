@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "2.0",
-  "apkUrl": "https://atomgit.com/zzz52201322-maker/xindong-diary-updates/releases/download/v2.0/AnniversaryApp-2.0.apk",
-  "sha256": "3EFDF5555D93C1237DC692FEE42BEC1CAEE459F01D0DAF78BE16CD1E44377094",
-  "releaseNotes": "芯动日记 2.0 正式版。",
+  "versionCode": 16,
+  "versionName": "2.1",
+  "apkUrl": "https://atomgit.com/zzz52201322-maker/xindong-diary-updates/releases/download/v2.1/AnniversaryApp-2.1.apk",
+  "sha256": "229C95E3947C9B9A5BFB4E227880B4196E17D82C42A4FE49E70BBD58DE116F06",
+  "releaseNotes": "芯动日记 2.1 正式版。",
   "forceUpdate": false
 }
